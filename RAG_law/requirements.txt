@@ -1,0 +1,12 @@
+streamlit
+langchain-core
+langchain-community
+langchain-openai
+langchain-ollama
+faiss-cpu
+python-dotenv
+tavily-python
+unstructured
+pypdf
+docx2txt
+
